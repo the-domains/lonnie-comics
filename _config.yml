@@ -1,0 +1,28 @@
+name: Lonnie Comics
+favicon: null
+layout_spectrum: 0.8722130011301488
+typography_spectrum: 0.09718993492424488
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.07232442521490157
+  lightness: 0.3733433715533465
+  saturation: 0.0033637203741818666
+  rhythmicContrast: 0.445346946362406
+purpose: []
