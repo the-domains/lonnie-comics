@@ -2,17 +2,17 @@
     <channel>
         <title><![CDATA[Lonnie Comics]]></title>
         <description><![CDATA[Lonnie Comics]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lonnie-comics/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jan 2016 03:38:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 28 Jan 2016 03:55:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lonnie-comics/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Lonnie's Art Assignment Intro]]></title>
             <description><![CDATA[<article><h1>Lonnie's Art Assignment Intro</h1><p> I’ve started a little series of comics based on the youtube channel The Art Assignment’s, well...
- art assignments! This is just the intro.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/65ab1d8cc3cf43ab6df9badc04c7d43f998d127a.jpg"></article>]]></description>
-            <link>undefinedb58746b0-8a46-4c70-9425-98252fc22eca/index.html</link>
+ art assignments! This is just the intro.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f13c0c6a9918bd85f6317f31d534ff52f87de620.jpg"></article>]]></description>
+            <link>https://thegrid.ai/lonnie-comics/b58746b0-8a46-4c70-9425-98252fc22eca/index.html</link>
             <guid isPermaLink="false">b58746b0-8a46-4c70-9425-98252fc22eca</guid>
-            <pubDate>Thu, 28 Jan 2016 03:35:18 GMT</pubDate>
+            <pubDate>Thu, 28 Jan 2016 03:54:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
