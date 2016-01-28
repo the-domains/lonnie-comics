@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-28T04:02:03.032Z'
+datePublished: '2016-01-28T04:02:03.067Z'
 dateModified: '2016-01-28T04:02:00.861Z'
 title: "Lonnie's Art Assignment #2 Stakeout!"
 author: []
