@@ -6,23 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-28T03:59:50.249Z'
-dateModified: '2016-01-28T03:58:59.671Z'
+datePublished: '2016-01-28T04:02:03.032Z'
+dateModified: '2016-01-28T04:02:00.861Z'
 title: "Lonnie's Art Assignment #2 Stakeout!"
 author: []
+sourcePath: _posts/2016-01-28-lonnies-art-assignment-2-stakeout.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-28-lonnies-art-assignment-2-stakeout.md
-published: true
 url: lonnies-art-assignment-2-stakeout/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/42453e3d-0607-4687-ac81-faa2d42bc7f1.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0f88a57a09a99058dc0ea386d7d0b9cb27af827d.jpg)
 
 Ta-daaaa! My first full [Art Assignment][0] comic! What do you think??? Please give me all of your feedbacks.
 
